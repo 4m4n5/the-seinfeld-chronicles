@@ -1,634 +1,212 @@
 ,Character,Dialogue,EpisodeNo,SEID,Season
-0,JERRY,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.",1.0,SE01EP01,1.0
-1,JERRY,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.",1.0,SE01EP01,1.0
-2,GEORGE,Are you through?,1.0,SE01EP01,1.0
-3,JERRY,"You do of course try on, when you buy?",1.0,SE01EP01,1.0
-4,GEORGE,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.",1.0,SE01EP01,1.0
-5,JERRY,"Oh, you dont recall?",1.0,SE01EP01,1.0
-6,GEORGE,"(on an imaginary microphone) Uh, no, not at this time.",1.0,SE01EP01,1.0
-7,JERRY,"Well, senator, Id just like to know, what you knew and when you knew it.",1.0,SE01EP01,1.0
-8,CLAIRE,Mr. Seinfeld. Mr. Costanza.,1.0,SE01EP01,1.0
-9,GEORGE,"Are, are you sure this is decaf? Wheres the orange indicator?",1.0,SE01EP01,1.0
-10,CLAIRE,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.",1.0,SE01EP01,1.0
-11,JERRY,"Can you relax, its a cup of coffee. Claire is a professional waitress.",1.0,SE01EP01,1.0
-12,CLAIRE,Trust me George. No one has any interest in seeing you on caffeine.,1.0,SE01EP01,1.0
-13,GEORGE,How come youre not doin the second show tomorrow?,1.0,SE01EP01,1.0
-14,JERRY,"Well, theres this uh, woman might be comin in.",1.0,SE01EP01,1.0
-15,GEORGE,"Wait a second, wait a second, what coming in, what woman is coming in?",1.0,SE01EP01,1.0
-16,JERRY,"I told you about Laura, the girl I met in Michigan?",1.0,SE01EP01,1.0
-17,GEORGE,"No, you didnt!",1.0,SE01EP01,1.0
-18,JERRY,"I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",1.0,SE01EP01,1.0
-19,GEORGE,Ha.,1.0,SE01EP01,1.0
-20,JERRY,"(looks in the creamer) Theres no milk in here, what...",1.0,SE01EP01,1.0
-21,GEORGE,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?",1.0,SE01EP01,1.0
-22,JERRY,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.",1.0,SE01EP01,1.0
-23,GEORGE,"(smiling) So, you know, what, what happened?",1.0,SE01EP01,1.0
-24,JERRY,"Oh, nothing happened, you know, but is was great.",1.0,SE01EP01,1.0
-25,GEORGE,"Oh, nothing happened, but it was...",1.0,SE01EP01,1.0
-26,JERRY,Yeah.,1.0,SE01EP01,1.0
-27,GEORGE,This is great!,1.0,SE01EP01,1.0
-28,JERRY,Yeah.,1.0,SE01EP01,1.0
-29,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,SE01EP01,1.0
-30,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,SE01EP01,1.0
-31,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,SE01EP01,1.0
-32,JERRY,"Yeah, but...",1.0,SE01EP01,1.0
-33,GEORGE,Had to come in and maybe well get together? Had to and maybe?,1.0,SE01EP01,1.0
-34,JERRY,Yeah!,1.0,SE01EP01,1.0
-35,GEORGE,"No...no...no, I hate to tell you this. Youre not gonna see this woman.",1.0,SE01EP01,1.0
-36,JERRY,"What, are you serious...why, why did she call?",1.0,SE01EP01,1.0
-37,GEORGE,"How do I know, maybe, you know, maybe she wanted to be polite.",1.0,SE01EP01,1.0
-38,JERRY,To be polite? You are insane!,1.0,SE01EP01,1.0
-39,GEORGE,"All right, all right, I didnt want to tell you this. You wanna know why she called you?",1.0,SE01EP01,1.0
-40,JERRY,Yes!,1.0,SE01EP01,1.0
-41,GEORGE,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!",1.0,SE01EP01,1.0
-42,JERRY,"Oh, I get it, this is about the button.",1.0,SE01EP01,1.0
-43,GEORGE,"Claire, Claire, youre a woman, right?",1.0,SE01EP01,1.0
-44,CLAIRE,"What gave it away, George?",1.0,SE01EP01,1.0
-45,GEORGE,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",1.0,SE01EP01,1.0
-46,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,SE01EP01,1.0
-47,CLAIE,Uh huh.,1.0,SE01EP01,1.0
-48,GEORGE,She says she has to come to New York on business...,1.0,SE01EP01,1.0
-49,JERRY,Oh you are beautiful!,1.0,SE01EP01,1.0
-50,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,SE01EP01,1.0
-51,CLAIRE,"Id have to say, uuhh, no.",1.0,SE01EP01,1.0
-52,(George shows his note-block to Jerry; it says very largely,NO.),1.0,SE01EP01,1.0
-53,CLAIRE,To be polite.,1.0,SE01EP01,1.0
-54,GEORGE,To be polite. I rest my case.,1.0,SE01EP01,1.0
-55,JERRY,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.",1.0,SE01EP01,1.0
-56,GEORGE,Im not gonna watch you do laundry.,1.0,SE01EP01,1.0
-57,JERRY,"Oh, come on, be a come-with guy.",1.0,SE01EP01,1.0
-58,GEORGE,"Come on, Im tired.",1.0,SE01EP01,1.0
-59,CLAIRE,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.",1.0,SE01EP01,1.0
-60,GEORGE,"(panicking) Right, I knew I felt something!",1.0,SE01EP01,1.0
-61,GEORGE,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,1.0,SE01EP01,1.0
-62,JERRY,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.",1.0,SE01EP01,1.0
-63,GEORGE,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",1.0,SE01EP01,1.0
-64,JERRY,And you didnt even hear how she sounded.,1.0,SE01EP01,1.0
-65,GEORGE,What?!,1.0,SE01EP01,1.0
-66,JERRY,Laura.,1.0,SE01EP01,1.0
-67,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,SE01EP01,1.0
-68,JERRY,"Yeah, but how could you be so sure?",1.0,SE01EP01,1.0
-69,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,SE01EP01,1.0
-70,JERRY,No.,1.0,SE01EP01,1.0
-71,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,SE01EP01,1.0
-72,JERRY,Yeah.,1.0,SE01EP01,1.0
-73,GEORGE,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!",1.0,SE01EP01,1.0
-74,JERRY,Maybe youre right.,1.0,SE01EP01,1.0
-75,GEORGE,Maybe Im right? Of course Im right.,1.0,SE01EP01,1.0
-76,JERRY,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.",1.0,SE01EP01,1.0
-77,GEORGE,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?",1.0,SE01EP01,1.0
-78,JERRY,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.",1.0,SE01EP01,1.0
-79,GEORGE,Youre gonna overdry it.,1.0,SE01EP01,1.0
-80,JERRY,"You, you cant overdry.",1.0,SE01EP01,1.0
-81,GEORGE,Why not?,1.0,SE01EP01,1.0
-82,JERRY,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.",1.0,SE01EP01,1.0
-83,GEORGE,(to the other laundry patrons) Any questions?,1.0,SE01EP01,1.0
-84,JERRY,How could she not tell me where she was staying?,1.0,SE01EP01,1.0
-85,GEORGE,Look at that. Theyre done!,1.0,SE01EP01,1.0
-86,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,SE01EP01,1.0
-87,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,SE01EP01,1.0
-88,JERRY,(to the door) Yeah?,1.0,SE01EP01,1.0
-89,KESSLER,Are you up?,1.0,SE01EP01,1.0
-90,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,SE01EP01,1.0
-91,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,SE01EP01,1.0
-92,JERRY,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.",1.0,SE01EP01,1.0
-93,KESSLER,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?",1.0,SE01EP01,1.0
-94,JERRY,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?",1.0,SE01EP01,1.0
-95,KESSLER,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!",1.0,SE01EP01,1.0
-96,KESSLER,"You know, I almost wound up going to that game.",1.0,SE01EP01,1.0
-97,JERRY,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,1.0,SE01EP01,1.0
-98,KESSLER,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?",1.0,SE01EP01,1.0
-99,JERRY,No.,1.0,SE01EP01,1.0
-100,KESSLER,"When youre done, let me know.",1.0,SE01EP01,1.0
-101,JERRY,"Yeah, yeah...you can have it tomorrow.",1.0,SE01EP01,1.0
-102,KESSLER,I thought I wasnt allowed to be in here this weekend.,1.0,SE01EP01,1.0
-103,JERRY,"No, its okay now, that, that girl is not comin. Uh, I misread the whole thing.",1.0,SE01EP01,1.0
-104,KESSLER,You want me to talk to her?,1.0,SE01EP01,1.0
-105,JERRY,I dont think so.,1.0,SE01EP01,1.0
-106,KESSLER,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",1.0,SE01EP01,1.0
-107,JERRY,"That close, huh?",1.0,SE01EP01,1.0
-108,KESSLER,You better believe it.,1.0,SE01EP01,1.0
-109,JERRY,"Hello...Oh, hi, Laura.",1.0,SE01EP01,1.0
-110,KESSLER,"Oh, give me it...let me talk to her.",1.0,SE01EP01,1.0
-111,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,SE01EP01,1.0
-112,KESSLER,(to the TV) SLIDE! Wow!,1.0,SE01EP01,1.0
-113,JERRY,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!",1.0,SE01EP01,1.0
-114,JERRY,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'",1.0,SE01EP01,1.0
-115,GEORGE,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?",1.0,SE01EP01,1.0
-116,JERRY,"Look, its a very awkward situation. I dont wanna be presumptuous.",1.0,SE01EP01,1.0
-117,GEORGE,"All right, all right, one more time, one more time! What was the exact phrasing of the request?",1.0,SE01EP01,1.0
-118,JERRY,"All right, she said she couldnt find a decent hotel room...",1.0,SE01EP01,1.0
-119,GEORGE,A decent hotel-room...,1.0,SE01EP01,1.0
-120,JERRY,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",1.0,SE01EP01,1.0
-121,GEORGE,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!",1.0,SE01EP01,1.0
-122,JERRY,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?",1.0,SE01EP01,1.0
-123,GEORGE,I think I was affected by the caffeine.,1.0,SE01EP01,1.0
-124,GEORGE,"Ho, ho, ho, good dog, good dog...",1.0,SE01EP01,1.0
-125,KESSLER,"Hey, he really likes you, George.",1.0,SE01EP01,1.0
-126,GEORGE,"Well, thats flattering.",1.0,SE01EP01,1.0
-127,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,SE01EP01,1.0
-128,JERRY,Yeah.,1.0,SE01EP01,1.0
-129,KESSLER,Why even give her an option?,1.0,SE01EP01,1.0
-130,JERRY,"This is a person I like, its not How to score on spring break.",1.0,SE01EP01,1.0
-131,GEORGE,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.",1.0,SE01EP01,1.0
-132,JERRY,"Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.",1.0,SE01EP01,1.0
-133,GEORGE,So what? Thats good.,1.0,SE01EP01,1.0
-134,JERRY,"Now, how could that be good?",1.0,SE01EP01,1.0
-135,GEORGE,"Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom? They, have a woman comin over, Ive gotta tidy up? Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.",1.0,SE01EP01,1.0
-136,JERRY,This is how you operate?,1.0,SE01EP01,1.0
-137,GEORGE,"Yeah, I wish.",1.0,SE01EP01,1.0
-138,JERRY,Let me just wipe the sink.,1.0,SE01EP01,1.0
-139,KESSLER,Why even give her an option for?,1.0,SE01EP01,1.0
-140,KESSLER,"(to George, pointing at the mattress) Its unbelievable.",1.0,SE01EP01,1.0
-141,GEORGE,Yeah.,1.0,SE01EP01,1.0
-142,KESSLER,Hows the real estate-business?,1.0,SE01EP01,1.0
-143,GEORGE,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.",1.0,SE01EP01,1.0
-144,KRAMER,Do you handle any of that commercial...real estate?,1.0,SE01EP01,1.0
-145,GEORGE,"Well, I might be getting into that.",1.0,SE01EP01,1.0
-146,KESSLER,(slaps George on the arm) You keep me posted!,1.0,SE01EP01,1.0
-147,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,SE01EP01,1.0
-148,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,SE01EP01,1.0
-149,JERRY,Wouldnt it be great if you could ask a woman what shes thinking?,1.0,SE01EP01,1.0
-150,GEORGE,"What a world that would be, if you just could ask a woman what shes thinkin.",1.0,SE01EP01,1.0
-151,JERRY,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.",1.0,SE01EP01,1.0
-152,GEORGE,"Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.",1.0,SE01EP01,1.0
-153,JERRY,Really? How?,1.0,SE01EP01,1.0
-154,GEORGE,Cause its all in the greeting.,1.0,SE01EP01,1.0
-155,JERRY,Uh-huh.,1.0,SE01EP01,1.0
-156,GEORGE,"All right, if she puts the bags down before she greets you, thats a good sign.",1.0,SE01EP01,1.0
-157,JERRY,Right.,1.0,SE01EP01,1.0
-158,GEORGE,"You know, anything in the, in the lip area is good.",1.0,SE01EP01,1.0
-159,JERRY,Lip area.,1.0,SE01EP01,1.0
-160,GEORGE,You know a hug definitely good.,1.0,SE01EP01,1.0
-161,JERRY,Hug is definitely good.,1.0,SE01EP01,1.0
-162,GEORGE,Sure.,1.0,SE01EP01,1.0
-163,JERRY,"Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?",1.0,SE01EP01,1.0
-164,GEORGE,"Thats so brutal, I hate that.",1.0,SE01EP01,1.0
-165,JERRY,You know how they do that?,1.0,SE01EP01,1.0
-166,GEORGE,"Thats why, you know, a shake is bad.",1.0,SE01EP01,1.0
-167,JERRY,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",1.0,SE01EP01,1.0
-168,GEORGE,Hand sandwich.,1.0,SE01EP01,1.0
-169,JERRY,Right.,1.0,SE01EP01,1.0
-170,GEORGE,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",1.0,SE01EP01,1.0
-171,LAURA,Guess who?,1.0,SE01EP01,1.0
-172,JERRY,"Hey, hey.",1.0,SE01EP01,1.0
-173,LAURA & JERRY,Heeeey!,1.0,SE01EP01,1.0
-174,JERRY,Its good to see you.,1.0,SE01EP01,1.0
-175,LAURA,Hi.,1.0,SE01EP01,1.0
-176,JERRY,This is my friend George.,1.0,SE01EP01,1.0
-177,LAURA,"Hi, how nice to meet you.",1.0,SE01EP01,1.0
-178,GEORGE,"Hi, how are you?",1.0,SE01EP01,1.0
-179,JERRY,This is Laura.,1.0,SE01EP01,1.0
-180,GEORGE,"Laura, sure.",1.0,SE01EP01,1.0
-181,JERRY,(to Laura) I cant believe youre here.,1.0,SE01EP01,1.0
-182,GEORGE & JERRY,"Ooh yeah, the bags, sure.",1.0,SE01EP01,1.0
-183,LAURA,"Oh, thank you.",1.0,SE01EP01,1.0
-184,JERRY,"(aside, to George) Now that was an interesting greeting, did you notice that, George?",1.0,SE01EP01,1.0
-185,GEORGE,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.",1.0,SE01EP01,1.0
-186,JERRY,"So uh, what do you think?",1.0,SE01EP01,1.0
-187,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,SE01EP01,1.0
-188,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,SE01EP01,1.0
-189,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,SE01EP01,1.0
-190,JERRY,"Uh, yeah, I think I do.",1.0,SE01EP01,1.0
-191,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,SE01EP01,1.0
-192,JERRY,"Uh, no, yeah, go right ahead.",1.0,SE01EP01,1.0
-193,LAURA,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?",1.0,SE01EP01,1.0
-194,JERRY,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?",1.0,SE01EP01,1.0
-195,LAURA,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.",1.0,SE01EP01,1.0
-196,JERRY,Really? What would you like to do?,1.0,SE01EP01,1.0
-197,LAURA,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.",1.0,SE01EP01,1.0
-198,JERRY,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.",1.0,SE01EP01,1.0
-199,JERRY,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.",1.0,SE01EP01,1.0
-200,LAURA,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.",1.0,SE01EP01,1.0
-201,JERRY,(not excited) Youre engaged?,1.0,SE01EP01,1.0
-202,LAURA,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.",1.0,SE01EP01,1.0
-203,JERRY,Youre engaged?,1.0,SE01EP01,1.0
-204,LAURA,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.",1.0,SE01EP01,1.0
-205,JERRY,(matter-of-factly) Youre engaged.,1.0,SE01EP01,1.0
-206,LAURA,"Yeah, yeah, hes a great guy...",1.0,SE01EP01,1.0
-207,JERRY,Yeah.,1.0,SE01EP01,1.0
-208,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,SE01EP01,1.0
-209,JERRY,Me too!,1.0,SE01EP01,1.0
-210,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,SE01EP01,1.0
-211,JERRY,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.",1.0,SE01EP01,1.0
-212,JERRY,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.",1.0,SE01EP01,1.0
-213,GEORGE,Are you through?,1.0,SE01EP01,1.0
-214,JERRY,"You do of course try on, when you buy?",1.0,SE01EP01,1.0
-215,GEORGE,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.",1.0,SE01EP01,1.0
-216,JERRY,"Oh, you dont recall?",1.0,SE01EP01,1.0
-217,GEORGE,"(on an imaginary microphone) Uh, no, not at this time.",1.0,SE01EP01,1.0
-218,JERRY,"Well, senator, Id just like to know, what you knew and when you knew it.",1.0,SE01EP01,1.0
-219,CLAIRE,Mr. Seinfeld. Mr. Costanza.,1.0,SE01EP01,1.0
-220,GEORGE,"Are, are you sure this is decaf? Wheres the orange indicator?",1.0,SE01EP01,1.0
-221,CLAIRE,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.",1.0,SE01EP01,1.0
-222,JERRY,"Can you relax, its a cup of coffee. Claire is a professional waitress.",1.0,SE01EP01,1.0
-223,CLAIRE,Trust me George. No one has any interest in seeing you on caffeine.,1.0,SE01EP01,1.0
-224,GEORGE,How come youre not doin the second show tomorrow?,1.0,SE01EP01,1.0
-225,JERRY,"Well, theres this uh, woman might be comin in.",1.0,SE01EP01,1.0
-226,GEORGE,"Wait a second, wait a second, what coming in, what woman is coming in?",1.0,SE01EP01,1.0
-227,JERRY,"I told you about Laura, the girl I met in Michigan?",1.0,SE01EP01,1.0
-228,GEORGE,"No, you didnt!",1.0,SE01EP01,1.0
-229,JERRY,"I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",1.0,SE01EP01,1.0
-230,GEORGE,Ha.,1.0,SE01EP01,1.0
-231,JERRY,"(looks in the creamer) Theres no milk in here, what...",1.0,SE01EP01,1.0
-232,GEORGE,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?",1.0,SE01EP01,1.0
-233,JERRY,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.",1.0,SE01EP01,1.0
-234,GEORGE,"(smiling) So, you know, what, what happened?",1.0,SE01EP01,1.0
-235,JERRY,"Oh, nothing happened, you know, but is was great.",1.0,SE01EP01,1.0
-236,GEORGE,"Oh, nothing happened, but it was...",1.0,SE01EP01,1.0
-237,JERRY,Yeah.,1.0,SE01EP01,1.0
-238,GEORGE,This is great!,1.0,SE01EP01,1.0
-239,JERRY,Yeah.,1.0,SE01EP01,1.0
-240,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,SE01EP01,1.0
-241,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,SE01EP01,1.0
-242,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,SE01EP01,1.0
-243,JERRY,"Yeah, but...",1.0,SE01EP01,1.0
-244,GEORGE,Had to come in and maybe well get together? Had to and maybe?,1.0,SE01EP01,1.0
-245,JERRY,Yeah!,1.0,SE01EP01,1.0
-246,GEORGE,"No...no...no, I hate to tell you this. Youre not gonna see this woman.",1.0,SE01EP01,1.0
-247,JERRY,"What, are you serious...why, why did she call?",1.0,SE01EP01,1.0
-248,GEORGE,"How do I know, maybe, you know, maybe she wanted to be polite.",1.0,SE01EP01,1.0
-249,JERRY,To be polite? You are insane!,1.0,SE01EP01,1.0
-250,GEORGE,"All right, all right, I didnt want to tell you this. You wanna know why she called you?",1.0,SE01EP01,1.0
-251,JERRY,Yes!,1.0,SE01EP01,1.0
-252,GEORGE,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!",1.0,SE01EP01,1.0
-253,JERRY,"Oh, I get it, this is about the button.",1.0,SE01EP01,1.0
-254,GEORGE,"Claire, Claire, youre a woman, right?",1.0,SE01EP01,1.0
-255,CLAIRE,"What gave it away, George?",1.0,SE01EP01,1.0
-256,GEORGE,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",1.0,SE01EP01,1.0
-257,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,SE01EP01,1.0
-258,CLAIE,Uh huh.,1.0,SE01EP01,1.0
-259,GEORGE,She says she has to come to New York on business...,1.0,SE01EP01,1.0
-260,JERRY,Oh you are beautiful!,1.0,SE01EP01,1.0
-261,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,SE01EP01,1.0
-262,CLAIRE,"Id have to say, uuhh, no.",1.0,SE01EP01,1.0
-263,(George shows his note-block to Jerry; it says very largely,NO.),1.0,SE01EP01,1.0
-264,CLAIRE,To be polite.,1.0,SE01EP01,1.0
-265,GEORGE,To be polite. I rest my case.,1.0,SE01EP01,1.0
-266,JERRY,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.",1.0,SE01EP01,1.0
-267,GEORGE,Im not gonna watch you do laundry.,1.0,SE01EP01,1.0
-268,JERRY,"Oh, come on, be a come-with guy.",1.0,SE01EP01,1.0
-269,GEORGE,"Come on, Im tired.",1.0,SE01EP01,1.0
-270,CLAIRE,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.",1.0,SE01EP01,1.0
-271,GEORGE,"(panicking) Right, I knew I felt something!",1.0,SE01EP01,1.0
-272,GEORGE,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,1.0,SE01EP01,1.0
-273,JERRY,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.",1.0,SE01EP01,1.0
-274,GEORGE,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",1.0,SE01EP01,1.0
-275,JERRY,And you didnt even hear how she sounded.,1.0,SE01EP01,1.0
-276,GEORGE,What?!,1.0,SE01EP01,1.0
-277,JERRY,Laura.,1.0,SE01EP01,1.0
-278,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,SE01EP01,1.0
-279,JERRY,"Yeah, but how could you be so sure?",1.0,SE01EP01,1.0
-280,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,SE01EP01,1.0
-281,JERRY,No.,1.0,SE01EP01,1.0
-282,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,SE01EP01,1.0
-283,JERRY,Yeah.,1.0,SE01EP01,1.0
-284,GEORGE,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!",1.0,SE01EP01,1.0
-285,JERRY,Maybe youre right.,1.0,SE01EP01,1.0
-286,GEORGE,Maybe Im right? Of course Im right.,1.0,SE01EP01,1.0
-287,JERRY,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.",1.0,SE01EP01,1.0
-288,GEORGE,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?",1.0,SE01EP01,1.0
-289,JERRY,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.",1.0,SE01EP01,1.0
-290,GEORGE,Youre gonna overdry it.,1.0,SE01EP01,1.0
-291,JERRY,"You, you cant overdry.",1.0,SE01EP01,1.0
-292,GEORGE,Why not?,1.0,SE01EP01,1.0
-293,JERRY,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.",1.0,SE01EP01,1.0
-294,GEORGE,(to the other laundry patrons) Any questions?,1.0,SE01EP01,1.0
-295,JERRY,How could she not tell me where she was staying?,1.0,SE01EP01,1.0
-296,GEORGE,Look at that. Theyre done!,1.0,SE01EP01,1.0
-297,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,SE01EP01,1.0
-298,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,SE01EP01,1.0
-299,JERRY,(to the door) Yeah?,1.0,SE01EP01,1.0
-300,KESSLER,Are you up?,1.0,SE01EP01,1.0
-301,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,SE01EP01,1.0
-302,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,SE01EP01,1.0
-303,JERRY,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.",1.0,SE01EP01,1.0
-304,KESSLER,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?",1.0,SE01EP01,1.0
-305,JERRY,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?",1.0,SE01EP01,1.0
-306,KESSLER,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!",1.0,SE01EP01,1.0
-307,KESSLER,"You know, I almost wound up going to that game.",1.0,SE01EP01,1.0
-308,JERRY,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,1.0,SE01EP01,1.0
-309,KESSLER,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?",1.0,SE01EP01,1.0
-310,JERRY,No.,1.0,SE01EP01,1.0
-311,KESSLER,"When youre done, let me know.",1.0,SE01EP01,1.0
-312,JERRY,"Yeah, yeah...you can have it tomorrow.",1.0,SE01EP01,1.0
-313,KESSLER,I thought I wasnt allowed to be in here this weekend.,1.0,SE01EP01,1.0
-314,JERRY,"No, its okay now, that, that girl is not comin. Uh, I misread the whole thing.",1.0,SE01EP01,1.0
-315,KESSLER,You want me to talk to her?,1.0,SE01EP01,1.0
-316,JERRY,I dont think so.,1.0,SE01EP01,1.0
-317,KESSLER,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",1.0,SE01EP01,1.0
-318,JERRY,"That close, huh?",1.0,SE01EP01,1.0
-319,KESSLER,You better believe it.,1.0,SE01EP01,1.0
-320,JERRY,"Hello...Oh, hi, Laura.",1.0,SE01EP01,1.0
-321,KESSLER,"Oh, give me it...let me talk to her.",1.0,SE01EP01,1.0
-322,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,SE01EP01,1.0
-323,KESSLER,(to the TV) SLIDE! Wow!,1.0,SE01EP01,1.0
-324,JERRY,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!",1.0,SE01EP01,1.0
-325,JERRY,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'",1.0,SE01EP01,1.0
-326,GEORGE,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?",1.0,SE01EP01,1.0
-327,JERRY,"Look, its a very awkward situation. I dont wanna be presumptuous.",1.0,SE01EP01,1.0
-328,GEORGE,"All right, all right, one more time, one more time! What was the exact phrasing of the request?",1.0,SE01EP01,1.0
-329,JERRY,"All right, she said she couldnt find a decent hotel room...",1.0,SE01EP01,1.0
-330,GEORGE,A decent hotel-room...,1.0,SE01EP01,1.0
-331,JERRY,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",1.0,SE01EP01,1.0
-332,GEORGE,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!",1.0,SE01EP01,1.0
-333,JERRY,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?",1.0,SE01EP01,1.0
-334,GEORGE,I think I was affected by the caffeine.,1.0,SE01EP01,1.0
-335,GEORGE,"Ho, ho, ho, good dog, good dog...",1.0,SE01EP01,1.0
-336,KESSLER,"Hey, he really likes you, George.",1.0,SE01EP01,1.0
-337,GEORGE,"Well, thats flattering.",1.0,SE01EP01,1.0
-338,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,SE01EP01,1.0
-339,JERRY,Yeah.,1.0,SE01EP01,1.0
-340,KESSLER,Why even give her an option?,1.0,SE01EP01,1.0
-341,JERRY,"This is a person I like, its not How to score on spring break.",1.0,SE01EP01,1.0
-342,GEORGE,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.",1.0,SE01EP01,1.0
-343,JERRY,"Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.",1.0,SE01EP01,1.0
-344,GEORGE,So what? Thats good.,1.0,SE01EP01,1.0
-345,JERRY,"Now, how could that be good?",1.0,SE01EP01,1.0
-346,GEORGE,"Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom? They, have a woman comin over, Ive gotta tidy up? Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.",1.0,SE01EP01,1.0
-347,JERRY,This is how you operate?,1.0,SE01EP01,1.0
-348,GEORGE,"Yeah, I wish.",1.0,SE01EP01,1.0
-349,JERRY,Let me just wipe the sink.,1.0,SE01EP01,1.0
-350,KESSLER,Why even give her an option for?,1.0,SE01EP01,1.0
-351,KESSLER,"(to George, pointing at the mattress) Its unbelievable.",1.0,SE01EP01,1.0
-352,GEORGE,Yeah.,1.0,SE01EP01,1.0
-353,KESSLER,Hows the real estate-business?,1.0,SE01EP01,1.0
-354,GEORGE,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.",1.0,SE01EP01,1.0
-355,KRAMER,Do you handle any of that commercial...real estate?,1.0,SE01EP01,1.0
-356,GEORGE,"Well, I might be getting into that.",1.0,SE01EP01,1.0
-357,KESSLER,(slaps George on the arm) You keep me posted!,1.0,SE01EP01,1.0
-358,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,SE01EP01,1.0
-359,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,SE01EP01,1.0
-360,JERRY,Wouldnt it be great if you could ask a woman what shes thinking?,1.0,SE01EP01,1.0
-361,GEORGE,"What a world that would be, if you just could ask a woman what shes thinkin.",1.0,SE01EP01,1.0
-362,JERRY,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.",1.0,SE01EP01,1.0
-363,GEORGE,"Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.",1.0,SE01EP01,1.0
-364,JERRY,Really? How?,1.0,SE01EP01,1.0
-365,GEORGE,Cause its all in the greeting.,1.0,SE01EP01,1.0
-366,JERRY,Uh-huh.,1.0,SE01EP01,1.0
-367,GEORGE,"All right, if she puts the bags down before she greets you, thats a good sign.",1.0,SE01EP01,1.0
-368,JERRY,Right.,1.0,SE01EP01,1.0
-369,GEORGE,"You know, anything in the, in the lip area is good.",1.0,SE01EP01,1.0
-370,JERRY,Lip area.,1.0,SE01EP01,1.0
-371,GEORGE,You know a hug definitely good.,1.0,SE01EP01,1.0
-372,JERRY,Hug is definitely good.,1.0,SE01EP01,1.0
-373,GEORGE,Sure.,1.0,SE01EP01,1.0
-374,JERRY,"Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?",1.0,SE01EP01,1.0
-375,GEORGE,"Thats so brutal, I hate that.",1.0,SE01EP01,1.0
-376,JERRY,You know how they do that?,1.0,SE01EP01,1.0
-377,GEORGE,"Thats why, you know, a shake is bad.",1.0,SE01EP01,1.0
-378,JERRY,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",1.0,SE01EP01,1.0
-379,GEORGE,Hand sandwich.,1.0,SE01EP01,1.0
-380,JERRY,Right.,1.0,SE01EP01,1.0
-381,GEORGE,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",1.0,SE01EP01,1.0
-382,LAURA,Guess who?,1.0,SE01EP01,1.0
-383,JERRY,"Hey, hey.",1.0,SE01EP01,1.0
-384,LAURA & JERRY,Heeeey!,1.0,SE01EP01,1.0
-385,JERRY,Its good to see you.,1.0,SE01EP01,1.0
-386,LAURA,Hi.,1.0,SE01EP01,1.0
-387,JERRY,This is my friend George.,1.0,SE01EP01,1.0
-388,LAURA,"Hi, how nice to meet you.",1.0,SE01EP01,1.0
-389,GEORGE,"Hi, how are you?",1.0,SE01EP01,1.0
-390,JERRY,This is Laura.,1.0,SE01EP01,1.0
-391,GEORGE,"Laura, sure.",1.0,SE01EP01,1.0
-392,JERRY,(to Laura) I cant believe youre here.,1.0,SE01EP01,1.0
-393,GEORGE & JERRY,"Ooh yeah, the bags, sure.",1.0,SE01EP01,1.0
-394,LAURA,"Oh, thank you.",1.0,SE01EP01,1.0
-395,JERRY,"(aside, to George) Now that was an interesting greeting, did you notice that, George?",1.0,SE01EP01,1.0
-396,GEORGE,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.",1.0,SE01EP01,1.0
-397,JERRY,"So uh, what do you think?",1.0,SE01EP01,1.0
-398,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,SE01EP01,1.0
-399,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,SE01EP01,1.0
-400,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,SE01EP01,1.0
-401,JERRY,"Uh, yeah, I think I do.",1.0,SE01EP01,1.0
-402,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,SE01EP01,1.0
-403,JERRY,"Uh, no, yeah, go right ahead.",1.0,SE01EP01,1.0
-404,LAURA,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?",1.0,SE01EP01,1.0
-405,JERRY,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?",1.0,SE01EP01,1.0
-406,LAURA,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.",1.0,SE01EP01,1.0
-407,JERRY,Really? What would you like to do?,1.0,SE01EP01,1.0
-408,LAURA,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.",1.0,SE01EP01,1.0
-409,JERRY,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.",1.0,SE01EP01,1.0
-410,JERRY,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.",1.0,SE01EP01,1.0
-411,LAURA,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.",1.0,SE01EP01,1.0
-412,JERRY,(not excited) Youre engaged?,1.0,SE01EP01,1.0
-413,LAURA,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.",1.0,SE01EP01,1.0
-414,JERRY,Youre engaged?,1.0,SE01EP01,1.0
-415,LAURA,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.",1.0,SE01EP01,1.0
-416,JERRY,(matter-of-factly) Youre engaged.,1.0,SE01EP01,1.0
-417,LAURA,"Yeah, yeah, hes a great guy...",1.0,SE01EP01,1.0
-418,JERRY,Yeah.,1.0,SE01EP01,1.0
-419,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,SE01EP01,1.0
-420,JERRY,Me too!,1.0,SE01EP01,1.0
-421,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,SE01EP01,1.0
-422,JERRY,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.",1.0,S01E01,1.0
-423,JERRY,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.",1.0,S01E01,1.0
-424,GEORGE,Are you through?,1.0,S01E01,1.0
-425,JERRY,"You do of course try on, when you buy?",1.0,S01E01,1.0
-426,GEORGE,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.",1.0,S01E01,1.0
-427,JERRY,"Oh, you dont recall?",1.0,S01E01,1.0
-428,GEORGE,"(on an imaginary microphone) Uh, no, not at this time.",1.0,S01E01,1.0
-429,JERRY,"Well, senator, Id just like to know, what you knew and when you knew it.",1.0,S01E01,1.0
-430,CLAIRE,Mr. Seinfeld. Mr. Costanza.,1.0,S01E01,1.0
-431,GEORGE,"Are, are you sure this is decaf? Wheres the orange indicator?",1.0,S01E01,1.0
-432,CLAIRE,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.",1.0,S01E01,1.0
-433,JERRY,"Can you relax, its a cup of coffee. Claire is a professional waitress.",1.0,S01E01,1.0
-434,CLAIRE,Trust me George. No one has any interest in seeing you on caffeine.,1.0,S01E01,1.0
-435,GEORGE,How come youre not doin the second show tomorrow?,1.0,S01E01,1.0
-436,JERRY,"Well, theres this uh, woman might be comin in.",1.0,S01E01,1.0
-437,GEORGE,"Wait a second, wait a second, what coming in, what woman is coming in?",1.0,S01E01,1.0
-438,JERRY,"I told you about Laura, the girl I met in Michigan?",1.0,S01E01,1.0
-439,GEORGE,"No, you didnt!",1.0,S01E01,1.0
-440,JERRY,"I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",1.0,S01E01,1.0
-441,GEORGE,Ha.,1.0,S01E01,1.0
-442,JERRY,"(looks in the creamer) Theres no milk in here, what...",1.0,S01E01,1.0
-443,GEORGE,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?",1.0,S01E01,1.0
-444,JERRY,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.",1.0,S01E01,1.0
-445,GEORGE,"(smiling) So, you know, what, what happened?",1.0,S01E01,1.0
-446,JERRY,"Oh, nothing happened, you know, but is was great.",1.0,S01E01,1.0
-447,GEORGE,"Oh, nothing happened, but it was...",1.0,S01E01,1.0
-448,JERRY,Yeah.,1.0,S01E01,1.0
-449,GEORGE,This is great!,1.0,S01E01,1.0
-450,JERRY,Yeah.,1.0,S01E01,1.0
-451,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,S01E01,1.0
-452,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,S01E01,1.0
-453,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,S01E01,1.0
-454,JERRY,"Yeah, but...",1.0,S01E01,1.0
-455,GEORGE,Had to come in and maybe well get together? Had to and maybe?,1.0,S01E01,1.0
-456,JERRY,Yeah!,1.0,S01E01,1.0
-457,GEORGE,"No...no...no, I hate to tell you this. Youre not gonna see this woman.",1.0,S01E01,1.0
-458,JERRY,"What, are you serious...why, why did she call?",1.0,S01E01,1.0
-459,GEORGE,"How do I know, maybe, you know, maybe she wanted to be polite.",1.0,S01E01,1.0
-460,JERRY,To be polite? You are insane!,1.0,S01E01,1.0
-461,GEORGE,"All right, all right, I didnt want to tell you this. You wanna know why she called you?",1.0,S01E01,1.0
-462,JERRY,Yes!,1.0,S01E01,1.0
-463,GEORGE,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!",1.0,S01E01,1.0
-464,JERRY,"Oh, I get it, this is about the button.",1.0,S01E01,1.0
-465,GEORGE,"Claire, Claire, youre a woman, right?",1.0,S01E01,1.0
-466,CLAIRE,"What gave it away, George?",1.0,S01E01,1.0
-467,GEORGE,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",1.0,S01E01,1.0
-468,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,S01E01,1.0
-469,CLAIE,Uh huh.,1.0,S01E01,1.0
-470,GEORGE,She says she has to come to New York on business...,1.0,S01E01,1.0
-471,JERRY,Oh you are beautiful!,1.0,S01E01,1.0
-472,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,S01E01,1.0
-473,CLAIRE,"Id have to say, uuhh, no.",1.0,S01E01,1.0
-474,(George shows his note-block to Jerry; it says very largely,NO.),1.0,S01E01,1.0
-475,CLAIRE,To be polite.,1.0,S01E01,1.0
-476,GEORGE,To be polite. I rest my case.,1.0,S01E01,1.0
-477,JERRY,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.",1.0,S01E01,1.0
-478,GEORGE,Im not gonna watch you do laundry.,1.0,S01E01,1.0
-479,JERRY,"Oh, come on, be a come-with guy.",1.0,S01E01,1.0
-480,GEORGE,"Come on, Im tired.",1.0,S01E01,1.0
-481,CLAIRE,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.",1.0,S01E01,1.0
-482,GEORGE,"(panicking) Right, I knew I felt something!",1.0,S01E01,1.0
-483,GEORGE,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,1.0,S01E01,1.0
-484,JERRY,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.",1.0,S01E01,1.0
-485,GEORGE,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",1.0,S01E01,1.0
-486,JERRY,And you didnt even hear how she sounded.,1.0,S01E01,1.0
-487,GEORGE,What?!,1.0,S01E01,1.0
-488,JERRY,Laura.,1.0,S01E01,1.0
-489,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,S01E01,1.0
-490,JERRY,"Yeah, but how could you be so sure?",1.0,S01E01,1.0
-491,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,S01E01,1.0
-492,JERRY,No.,1.0,S01E01,1.0
-493,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,S01E01,1.0
-494,JERRY,Yeah.,1.0,S01E01,1.0
-495,GEORGE,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!",1.0,S01E01,1.0
-496,JERRY,Maybe youre right.,1.0,S01E01,1.0
-497,GEORGE,Maybe Im right? Of course Im right.,1.0,S01E01,1.0
-498,JERRY,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.",1.0,S01E01,1.0
-499,GEORGE,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?",1.0,S01E01,1.0
-500,JERRY,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.",1.0,S01E01,1.0
-501,GEORGE,Youre gonna overdry it.,1.0,S01E01,1.0
-502,JERRY,"You, you cant overdry.",1.0,S01E01,1.0
-503,GEORGE,Why not?,1.0,S01E01,1.0
-504,JERRY,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.",1.0,S01E01,1.0
-505,GEORGE,(to the other laundry patrons) Any questions?,1.0,S01E01,1.0
-506,JERRY,How could she not tell me where she was staying?,1.0,S01E01,1.0
-507,GEORGE,Look at that. Theyre done!,1.0,S01E01,1.0
-508,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,S01E01,1.0
-509,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,S01E01,1.0
-510,JERRY,(to the door) Yeah?,1.0,S01E01,1.0
-511,KESSLER,Are you up?,1.0,S01E01,1.0
-512,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,S01E01,1.0
-513,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,S01E01,1.0
-514,JERRY,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.",1.0,S01E01,1.0
-515,KESSLER,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?",1.0,S01E01,1.0
-516,JERRY,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?",1.0,S01E01,1.0
-517,KESSLER,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!",1.0,S01E01,1.0
-518,KESSLER,"You know, I almost wound up going to that game.",1.0,S01E01,1.0
-519,JERRY,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,1.0,S01E01,1.0
-520,KESSLER,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?",1.0,S01E01,1.0
-521,JERRY,No.,1.0,S01E01,1.0
-522,KESSLER,"When youre done, let me know.",1.0,S01E01,1.0
-523,JERRY,"Yeah, yeah...you can have it tomorrow.",1.0,S01E01,1.0
-524,KESSLER,I thought I wasnt allowed to be in here this weekend.,1.0,S01E01,1.0
-525,JERRY,"No, its okay now, that, that girl is not comin. Uh, I misread the whole thing.",1.0,S01E01,1.0
-526,KESSLER,You want me to talk to her?,1.0,S01E01,1.0
-527,JERRY,I dont think so.,1.0,S01E01,1.0
-528,KESSLER,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",1.0,S01E01,1.0
-529,JERRY,"That close, huh?",1.0,S01E01,1.0
-530,KESSLER,You better believe it.,1.0,S01E01,1.0
-531,JERRY,"Hello...Oh, hi, Laura.",1.0,S01E01,1.0
-532,KESSLER,"Oh, give me it...let me talk to her.",1.0,S01E01,1.0
-533,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,S01E01,1.0
-534,KESSLER,(to the TV) SLIDE! Wow!,1.0,S01E01,1.0
-535,JERRY,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!",1.0,S01E01,1.0
-536,JERRY,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'",1.0,S01E01,1.0
-537,GEORGE,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?",1.0,S01E01,1.0
-538,JERRY,"Look, its a very awkward situation. I dont wanna be presumptuous.",1.0,S01E01,1.0
-539,GEORGE,"All right, all right, one more time, one more time! What was the exact phrasing of the request?",1.0,S01E01,1.0
-540,JERRY,"All right, she said she couldnt find a decent hotel room...",1.0,S01E01,1.0
-541,GEORGE,A decent hotel-room...,1.0,S01E01,1.0
-542,JERRY,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",1.0,S01E01,1.0
-543,GEORGE,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!",1.0,S01E01,1.0
-544,JERRY,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?",1.0,S01E01,1.0
-545,GEORGE,I think I was affected by the caffeine.,1.0,S01E01,1.0
-546,GEORGE,"Ho, ho, ho, good dog, good dog...",1.0,S01E01,1.0
-547,KESSLER,"Hey, he really likes you, George.",1.0,S01E01,1.0
-548,GEORGE,"Well, thats flattering.",1.0,S01E01,1.0
-549,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,S01E01,1.0
-550,JERRY,Yeah.,1.0,S01E01,1.0
-551,KESSLER,Why even give her an option?,1.0,S01E01,1.0
-552,JERRY,"This is a person I like, its not How to score on spring break.",1.0,S01E01,1.0
-553,GEORGE,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.",1.0,S01E01,1.0
-554,JERRY,"Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.",1.0,S01E01,1.0
-555,GEORGE,So what? Thats good.,1.0,S01E01,1.0
-556,JERRY,"Now, how could that be good?",1.0,S01E01,1.0
-557,GEORGE,"Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom? They, have a woman comin over, Ive gotta tidy up? Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.",1.0,S01E01,1.0
-558,JERRY,This is how you operate?,1.0,S01E01,1.0
-559,GEORGE,"Yeah, I wish.",1.0,S01E01,1.0
-560,JERRY,Let me just wipe the sink.,1.0,S01E01,1.0
-561,KESSLER,Why even give her an option for?,1.0,S01E01,1.0
-562,KESSLER,"(to George, pointing at the mattress) Its unbelievable.",1.0,S01E01,1.0
-563,GEORGE,Yeah.,1.0,S01E01,1.0
-564,KESSLER,Hows the real estate-business?,1.0,S01E01,1.0
-565,GEORGE,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.",1.0,S01E01,1.0
-566,KRAMER,Do you handle any of that commercial...real estate?,1.0,S01E01,1.0
-567,GEORGE,"Well, I might be getting into that.",1.0,S01E01,1.0
-568,KESSLER,(slaps George on the arm) You keep me posted!,1.0,S01E01,1.0
-569,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,S01E01,1.0
-570,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,S01E01,1.0
-571,JERRY,Wouldnt it be great if you could ask a woman what shes thinking?,1.0,S01E01,1.0
-572,GEORGE,"What a world that would be, if you just could ask a woman what shes thinkin.",1.0,S01E01,1.0
-573,JERRY,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.",1.0,S01E01,1.0
-574,GEORGE,"Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.",1.0,S01E01,1.0
-575,JERRY,Really? How?,1.0,S01E01,1.0
-576,GEORGE,Cause its all in the greeting.,1.0,S01E01,1.0
-577,JERRY,Uh-huh.,1.0,S01E01,1.0
-578,GEORGE,"All right, if she puts the bags down before she greets you, thats a good sign.",1.0,S01E01,1.0
-579,JERRY,Right.,1.0,S01E01,1.0
-580,GEORGE,"You know, anything in the, in the lip area is good.",1.0,S01E01,1.0
-581,JERRY,Lip area.,1.0,S01E01,1.0
-582,GEORGE,You know a hug definitely good.,1.0,S01E01,1.0
-583,JERRY,Hug is definitely good.,1.0,S01E01,1.0
-584,GEORGE,Sure.,1.0,S01E01,1.0
-585,JERRY,"Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?",1.0,S01E01,1.0
-586,GEORGE,"Thats so brutal, I hate that.",1.0,S01E01,1.0
-587,JERRY,You know how they do that?,1.0,S01E01,1.0
-588,GEORGE,"Thats why, you know, a shake is bad.",1.0,S01E01,1.0
-589,JERRY,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",1.0,S01E01,1.0
-590,GEORGE,Hand sandwich.,1.0,S01E01,1.0
-591,JERRY,Right.,1.0,S01E01,1.0
-592,GEORGE,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",1.0,S01E01,1.0
-593,LAURA,Guess who?,1.0,S01E01,1.0
-594,JERRY,"Hey, hey.",1.0,S01E01,1.0
-595,LAURA & JERRY,Heeeey!,1.0,S01E01,1.0
-596,JERRY,Its good to see you.,1.0,S01E01,1.0
-597,LAURA,Hi.,1.0,S01E01,1.0
-598,JERRY,This is my friend George.,1.0,S01E01,1.0
-599,LAURA,"Hi, how nice to meet you.",1.0,S01E01,1.0
-600,GEORGE,"Hi, how are you?",1.0,S01E01,1.0
-601,JERRY,This is Laura.,1.0,S01E01,1.0
-602,GEORGE,"Laura, sure.",1.0,S01E01,1.0
-603,JERRY,(to Laura) I cant believe youre here.,1.0,S01E01,1.0
-604,GEORGE & JERRY,"Ooh yeah, the bags, sure.",1.0,S01E01,1.0
-605,LAURA,"Oh, thank you.",1.0,S01E01,1.0
-606,JERRY,"(aside, to George) Now that was an interesting greeting, did you notice that, George?",1.0,S01E01,1.0
-607,GEORGE,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.",1.0,S01E01,1.0
-608,JERRY,"So uh, what do you think?",1.0,S01E01,1.0
-609,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,S01E01,1.0
-610,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,S01E01,1.0
-611,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,S01E01,1.0
-612,JERRY,"Uh, yeah, I think I do.",1.0,S01E01,1.0
-613,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,S01E01,1.0
-614,JERRY,"Uh, no, yeah, go right ahead.",1.0,S01E01,1.0
-615,LAURA,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?",1.0,S01E01,1.0
-616,JERRY,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?",1.0,S01E01,1.0
-617,LAURA,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.",1.0,S01E01,1.0
-618,JERRY,Really? What would you like to do?,1.0,S01E01,1.0
-619,LAURA,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.",1.0,S01E01,1.0
-620,JERRY,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.",1.0,S01E01,1.0
-621,JERRY,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.",1.0,S01E01,1.0
-622,LAURA,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.",1.0,S01E01,1.0
-623,JERRY,(not excited) Youre engaged?,1.0,S01E01,1.0
-624,LAURA,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.",1.0,S01E01,1.0
-625,JERRY,Youre engaged?,1.0,S01E01,1.0
-626,LAURA,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.",1.0,S01E01,1.0
-627,JERRY,(matter-of-factly) Youre engaged.,1.0,S01E01,1.0
-628,LAURA,"Yeah, yeah, hes a great guy...",1.0,S01E01,1.0
-629,JERRY,Yeah.,1.0,S01E01,1.0
-630,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,S01E01,1.0
-631,JERRY,Me too!,1.0,S01E01,1.0
-632,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,S01E01,1.0
+0,JERRY,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.",1.0,S01E01,1.0
+1,JERRY,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.",1.0,S01E01,1.0
+2,GEORGE,Are you through?,1.0,S01E01,1.0
+3,JERRY,"You do of course try on, when you buy?",1.0,S01E01,1.0
+4,GEORGE,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.",1.0,S01E01,1.0
+5,JERRY,"Oh, you dont recall?",1.0,S01E01,1.0
+6,GEORGE,"(on an imaginary microphone) Uh, no, not at this time.",1.0,S01E01,1.0
+7,JERRY,"Well, senator, Id just like to know, what you knew and when you knew it.",1.0,S01E01,1.0
+8,CLAIRE,Mr. Seinfeld. Mr. Costanza.,1.0,S01E01,1.0
+9,GEORGE,"Are, are you sure this is decaf? Wheres the orange indicator?",1.0,S01E01,1.0
+10,CLAIRE,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.",1.0,S01E01,1.0
+11,JERRY,"Can you relax, its a cup of coffee. Claire is a professional waitress.",1.0,S01E01,1.0
+12,CLAIRE,Trust me George. No one has any interest in seeing you on caffeine.,1.0,S01E01,1.0
+13,GEORGE,How come youre not doin the second show tomorrow?,1.0,S01E01,1.0
+14,JERRY,"Well, theres this uh, woman might be comin in.",1.0,S01E01,1.0
+15,GEORGE,"Wait a second, wait a second, what coming in, what woman is coming in?",1.0,S01E01,1.0
+16,JERRY,"I told you about Laura, the girl I met in Michigan?",1.0,S01E01,1.0
+17,GEORGE,"No, you didnt!",1.0,S01E01,1.0
+18,JERRY,"I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",1.0,S01E01,1.0
+19,GEORGE,Ha.,1.0,S01E01,1.0
+20,JERRY,"(looks in the creamer) Theres no milk in here, what...",1.0,S01E01,1.0
+21,GEORGE,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?",1.0,S01E01,1.0
+22,JERRY,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.",1.0,S01E01,1.0
+23,GEORGE,"(smiling) So, you know, what, what happened?",1.0,S01E01,1.0
+24,JERRY,"Oh, nothing happened, you know, but is was great.",1.0,S01E01,1.0
+25,GEORGE,"Oh, nothing happened, but it was...",1.0,S01E01,1.0
+26,JERRY,Yeah.,1.0,S01E01,1.0
+27,GEORGE,This is great!,1.0,S01E01,1.0
+28,JERRY,Yeah.,1.0,S01E01,1.0
+29,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,S01E01,1.0
+30,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,S01E01,1.0
+31,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,S01E01,1.0
+32,JERRY,"Yeah, but...",1.0,S01E01,1.0
+33,GEORGE,Had to come in and maybe well get together? Had to and maybe?,1.0,S01E01,1.0
+34,JERRY,Yeah!,1.0,S01E01,1.0
+35,GEORGE,"No...no...no, I hate to tell you this. Youre not gonna see this woman.",1.0,S01E01,1.0
+36,JERRY,"What, are you serious...why, why did she call?",1.0,S01E01,1.0
+37,GEORGE,"How do I know, maybe, you know, maybe she wanted to be polite.",1.0,S01E01,1.0
+38,JERRY,To be polite? You are insane!,1.0,S01E01,1.0
+39,GEORGE,"All right, all right, I didnt want to tell you this. You wanna know why she called you?",1.0,S01E01,1.0
+40,JERRY,Yes!,1.0,S01E01,1.0
+41,GEORGE,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!",1.0,S01E01,1.0
+42,JERRY,"Oh, I get it, this is about the button.",1.0,S01E01,1.0
+43,GEORGE,"Claire, Claire, youre a woman, right?",1.0,S01E01,1.0
+44,CLAIRE,"What gave it away, George?",1.0,S01E01,1.0
+45,GEORGE,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",1.0,S01E01,1.0
+46,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,S01E01,1.0
+47,CLAIE,Uh huh.,1.0,S01E01,1.0
+48,GEORGE,She says she has to come to New York on business...,1.0,S01E01,1.0
+49,JERRY,Oh you are beautiful!,1.0,S01E01,1.0
+50,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,S01E01,1.0
+51,CLAIRE,"Id have to say, uuhh, no.",1.0,S01E01,1.0
+52,(George shows his note-block to Jerry; it says very largely,NO.),1.0,S01E01,1.0
+53,CLAIRE,To be polite.,1.0,S01E01,1.0
+54,GEORGE,To be polite. I rest my case.,1.0,S01E01,1.0
+55,JERRY,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.",1.0,S01E01,1.0
+56,GEORGE,Im not gonna watch you do laundry.,1.0,S01E01,1.0
+57,JERRY,"Oh, come on, be a come-with guy.",1.0,S01E01,1.0
+58,GEORGE,"Come on, Im tired.",1.0,S01E01,1.0
+59,CLAIRE,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.",1.0,S01E01,1.0
+60,GEORGE,"(panicking) Right, I knew I felt something!",1.0,S01E01,1.0
+61,GEORGE,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,1.0,S01E01,1.0
+62,JERRY,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.",1.0,S01E01,1.0
+63,GEORGE,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",1.0,S01E01,1.0
+64,JERRY,And you didnt even hear how she sounded.,1.0,S01E01,1.0
+65,GEORGE,What?!,1.0,S01E01,1.0
+66,JERRY,Laura.,1.0,S01E01,1.0
+67,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,S01E01,1.0
+68,JERRY,"Yeah, but how could you be so sure?",1.0,S01E01,1.0
+69,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,S01E01,1.0
+70,JERRY,No.,1.0,S01E01,1.0
+71,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,S01E01,1.0
+72,JERRY,Yeah.,1.0,S01E01,1.0
+73,GEORGE,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!",1.0,S01E01,1.0
+74,JERRY,Maybe youre right.,1.0,S01E01,1.0
+75,GEORGE,Maybe Im right? Of course Im right.,1.0,S01E01,1.0
+76,JERRY,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.",1.0,S01E01,1.0
+77,GEORGE,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?",1.0,S01E01,1.0
+78,JERRY,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.",1.0,S01E01,1.0
+79,GEORGE,Youre gonna overdry it.,1.0,S01E01,1.0
+80,JERRY,"You, you cant overdry.",1.0,S01E01,1.0
+81,GEORGE,Why not?,1.0,S01E01,1.0
+82,JERRY,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.",1.0,S01E01,1.0
+83,GEORGE,(to the other laundry patrons) Any questions?,1.0,S01E01,1.0
+84,JERRY,How could she not tell me where she was staying?,1.0,S01E01,1.0
+85,GEORGE,Look at that. Theyre done!,1.0,S01E01,1.0
+86,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,S01E01,1.0
+87,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,S01E01,1.0
+88,JERRY,(to the door) Yeah?,1.0,S01E01,1.0
+89,KESSLER,Are you up?,1.0,S01E01,1.0
+90,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,S01E01,1.0
+91,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,S01E01,1.0
+92,JERRY,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.",1.0,S01E01,1.0
+93,KESSLER,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?",1.0,S01E01,1.0
+94,JERRY,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?",1.0,S01E01,1.0
+95,KESSLER,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!",1.0,S01E01,1.0
+96,KESSLER,"You know, I almost wound up going to that game.",1.0,S01E01,1.0
+97,JERRY,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,1.0,S01E01,1.0
+98,KESSLER,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?",1.0,S01E01,1.0
+99,JERRY,No.,1.0,S01E01,1.0
+100,KESSLER,"When youre done, let me know.",1.0,S01E01,1.0
+101,JERRY,"Yeah, yeah...you can have it tomorrow.",1.0,S01E01,1.0
+102,KESSLER,I thought I wasnt allowed to be in here this weekend.,1.0,S01E01,1.0
+103,JERRY,"No, its okay now, that, that girl is not comin. Uh, I misread the whole thing.",1.0,S01E01,1.0
+104,KESSLER,You want me to talk to her?,1.0,S01E01,1.0
+105,JERRY,I dont think so.,1.0,S01E01,1.0
+106,KESSLER,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",1.0,S01E01,1.0
+107,JERRY,"That close, huh?",1.0,S01E01,1.0
+108,KESSLER,You better believe it.,1.0,S01E01,1.0
+109,JERRY,"Hello...Oh, hi, Laura.",1.0,S01E01,1.0
+110,KESSLER,"Oh, give me it...let me talk to her.",1.0,S01E01,1.0
+111,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,S01E01,1.0
+112,KESSLER,(to the TV) SLIDE! Wow!,1.0,S01E01,1.0
+113,JERRY,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!",1.0,S01E01,1.0
+114,JERRY,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'",1.0,S01E01,1.0
+115,GEORGE,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?",1.0,S01E01,1.0
+116,JERRY,"Look, its a very awkward situation. I dont wanna be presumptuous.",1.0,S01E01,1.0
+117,GEORGE,"All right, all right, one more time, one more time! What was the exact phrasing of the request?",1.0,S01E01,1.0
+118,JERRY,"All right, she said she couldnt find a decent hotel room...",1.0,S01E01,1.0
+119,GEORGE,A decent hotel-room...,1.0,S01E01,1.0
+120,JERRY,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",1.0,S01E01,1.0
+121,GEORGE,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!",1.0,S01E01,1.0
+122,JERRY,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?",1.0,S01E01,1.0
+123,GEORGE,I think I was affected by the caffeine.,1.0,S01E01,1.0
+124,GEORGE,"Ho, ho, ho, good dog, good dog...",1.0,S01E01,1.0
+125,KESSLER,"Hey, he really likes you, George.",1.0,S01E01,1.0
+126,GEORGE,"Well, thats flattering.",1.0,S01E01,1.0
+127,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,S01E01,1.0
+128,JERRY,Yeah.,1.0,S01E01,1.0
+129,KESSLER,Why even give her an option?,1.0,S01E01,1.0
+130,JERRY,"This is a person I like, its not How to score on spring break.",1.0,S01E01,1.0
+131,GEORGE,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.",1.0,S01E01,1.0
+132,JERRY,"Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.",1.0,S01E01,1.0
+133,GEORGE,So what? Thats good.,1.0,S01E01,1.0
+134,JERRY,"Now, how could that be good?",1.0,S01E01,1.0
+135,GEORGE,"Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom? They, have a woman comin over, Ive gotta tidy up? Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.",1.0,S01E01,1.0
+136,JERRY,This is how you operate?,1.0,S01E01,1.0
+137,GEORGE,"Yeah, I wish.",1.0,S01E01,1.0
+138,JERRY,Let me just wipe the sink.,1.0,S01E01,1.0
+139,KESSLER,Why even give her an option for?,1.0,S01E01,1.0
+140,KESSLER,"(to George, pointing at the mattress) Its unbelievable.",1.0,S01E01,1.0
+141,GEORGE,Yeah.,1.0,S01E01,1.0
+142,KESSLER,Hows the real estate-business?,1.0,S01E01,1.0
+143,GEORGE,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.",1.0,S01E01,1.0
+144,KRAMER,Do you handle any of that commercial...real estate?,1.0,S01E01,1.0
+145,GEORGE,"Well, I might be getting into that.",1.0,S01E01,1.0
+146,KESSLER,(slaps George on the arm) You keep me posted!,1.0,S01E01,1.0
+147,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,S01E01,1.0
+148,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,S01E01,1.0
+149,JERRY,Wouldnt it be great if you could ask a woman what shes thinking?,1.0,S01E01,1.0
+150,GEORGE,"What a world that would be, if you just could ask a woman what shes thinkin.",1.0,S01E01,1.0
+151,JERRY,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.",1.0,S01E01,1.0
+152,GEORGE,"Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.",1.0,S01E01,1.0
+153,JERRY,Really? How?,1.0,S01E01,1.0
+154,GEORGE,Cause its all in the greeting.,1.0,S01E01,1.0
+155,JERRY,Uh-huh.,1.0,S01E01,1.0
+156,GEORGE,"All right, if she puts the bags down before she greets you, thats a good sign.",1.0,S01E01,1.0
+157,JERRY,Right.,1.0,S01E01,1.0
+158,GEORGE,"You know, anything in the, in the lip area is good.",1.0,S01E01,1.0
+159,JERRY,Lip area.,1.0,S01E01,1.0
+160,GEORGE,You know a hug definitely good.,1.0,S01E01,1.0
+161,JERRY,Hug is definitely good.,1.0,S01E01,1.0
+162,GEORGE,Sure.,1.0,S01E01,1.0
+163,JERRY,"Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?",1.0,S01E01,1.0
+164,GEORGE,"Thats so brutal, I hate that.",1.0,S01E01,1.0
+165,JERRY,You know how they do that?,1.0,S01E01,1.0
+166,GEORGE,"Thats why, you know, a shake is bad.",1.0,S01E01,1.0
+167,JERRY,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",1.0,S01E01,1.0
+168,GEORGE,Hand sandwich.,1.0,S01E01,1.0
+169,JERRY,Right.,1.0,S01E01,1.0
+170,GEORGE,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",1.0,S01E01,1.0
+171,LAURA,Guess who?,1.0,S01E01,1.0
+172,JERRY,"Hey, hey.",1.0,S01E01,1.0
+173,LAURA & JERRY,Heeeey!,1.0,S01E01,1.0
+174,JERRY,Its good to see you.,1.0,S01E01,1.0
+175,LAURA,Hi.,1.0,S01E01,1.0
+176,JERRY,This is my friend George.,1.0,S01E01,1.0
+177,LAURA,"Hi, how nice to meet you.",1.0,S01E01,1.0
+178,GEORGE,"Hi, how are you?",1.0,S01E01,1.0
+179,JERRY,This is Laura.,1.0,S01E01,1.0
+180,GEORGE,"Laura, sure.",1.0,S01E01,1.0
+181,JERRY,(to Laura) I cant believe youre here.,1.0,S01E01,1.0
+182,GEORGE & JERRY,"Ooh yeah, the bags, sure.",1.0,S01E01,1.0
+183,LAURA,"Oh, thank you.",1.0,S01E01,1.0
+184,JERRY,"(aside, to George) Now that was an interesting greeting, did you notice that, George?",1.0,S01E01,1.0
+185,GEORGE,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.",1.0,S01E01,1.0
+186,JERRY,"So uh, what do you think?",1.0,S01E01,1.0
+187,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,S01E01,1.0
+188,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,S01E01,1.0
+189,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,S01E01,1.0
+190,JERRY,"Uh, yeah, I think I do.",1.0,S01E01,1.0
+191,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,S01E01,1.0
+192,JERRY,"Uh, no, yeah, go right ahead.",1.0,S01E01,1.0
+193,LAURA,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?",1.0,S01E01,1.0
+194,JERRY,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?",1.0,S01E01,1.0
+195,LAURA,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.",1.0,S01E01,1.0
+196,JERRY,Really? What would you like to do?,1.0,S01E01,1.0
+197,LAURA,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.",1.0,S01E01,1.0
+198,JERRY,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.",1.0,S01E01,1.0
+199,JERRY,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.",1.0,S01E01,1.0
+200,LAURA,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.",1.0,S01E01,1.0
+201,JERRY,(not excited) Youre engaged?,1.0,S01E01,1.0
+202,LAURA,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.",1.0,S01E01,1.0
+203,JERRY,Youre engaged?,1.0,S01E01,1.0
+204,LAURA,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.",1.0,S01E01,1.0
+205,JERRY,(matter-of-factly) Youre engaged.,1.0,S01E01,1.0
+206,LAURA,"Yeah, yeah, hes a great guy...",1.0,S01E01,1.0
+207,JERRY,Yeah.,1.0,S01E01,1.0
+208,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,S01E01,1.0
+209,JERRY,Me too!,1.0,S01E01,1.0
+210,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,S01E01,1.0
