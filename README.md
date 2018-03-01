@@ -1,4 +1,4 @@
-**A dataset textual analysis on arguably the best written comedic television show ever.** 
+**A dataset for textual analysis on arguably the best written comedic television show ever.** 
 
 
 ----------
