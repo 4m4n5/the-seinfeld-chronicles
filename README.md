@@ -60,10 +60,13 @@ The data has been crawled from the [http://www.seinology.com/][4] website.
 
 Changes and Improvement suggestions are welcome. Feel free to comment new additions that you think are useful or drop a PR on the [github][5] project.
 
+Wanna buy me coffee - [paypal.me/AShrivastava961][6]
+
 
   [1]: http://www.seinology.com/
   [2]: https://wallpapershome.com/images/wallpapers/fifa-18-5120x2880-4k-screenshot-poster-e3-2017-13691.jpg
   [3]: https://github.com/amanthedorkknight/the-seinfeld-chronicles
   [4]: http://www.seinology.com/
   [5]: https://github.com/amanthedorkknight/the-seinfeld-chronicles
+  [6]: paypal.me/AShrivastava961
   [6]: https://www.paypal.me/AShrivastava961
