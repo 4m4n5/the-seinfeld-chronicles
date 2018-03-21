@@ -68,5 +68,4 @@ Wanna buy me coffee - [paypal.me/AShrivastava961][6]
   [3]: https://github.com/amanthedorkknight/the-seinfeld-chronicles
   [4]: http://www.seinology.com/
   [5]: https://github.com/amanthedorkknight/the-seinfeld-chronicles
-  [6]: paypal.me/AShrivastava961
   [6]: https://www.paypal.me/AShrivastava961
