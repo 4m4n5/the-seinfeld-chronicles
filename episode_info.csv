@@ -1,0 +1,175 @@
+,Season,EpisodeNo,Title,AirDate,Writers,Director,SEID
+0,1,1,"Good News, Bad News","July 5, 1989","Larry David, Jerry Seinfeld",Art Wolff,S01E01
+1,1,1,The Stakeout,"May 31, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E01
+2,1,2,The Robbery,"June 7, 1990",Matt Goldman,Tom Cherones,S01E02
+3,1,3,Male Unbonding,"June 14, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E03
+4,1,4,The Stock Tip,"June 21, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E04
+5,2,1,The Ex-Girlfriend,"January 16, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E01
+6,2,2,The Pony Remark,"January 30, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E02
+7,2,3,The Jacket,"February 6, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E03
+8,2,4,The Phone Message,"February 13, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E04
+9,2,5,The Apartment,"April 4, 1991",Peter Mehlman,Tom Cherones,S02E05
+10,2,6,The Statue,"April 11, 1991",Larry David,Tom Cherones,S02E06
+11,2,7,The Revenge,"April 18, 1991",Larry David,Tom Cherones,S02E07
+12,2,8,The Heart Attack,"April 25, 1991",Larry Charles,Tom Cherones,S02E08
+13,2,9,The Deal,"May 2, 1991",Larry Charles,Tom Cherones,S02E09
+14,2,10,The Baby Shower,"May 16, 1991",Larry Charles,Tom Cherones,S02E10
+15,2,11,The Chinese Restaurant,"May 23, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E11
+16,2,12,The Busboy,"June 26, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E12
+17,3,1,The Note,"September 18, 1991",Larry David,Tom Cherones,S03E01
+18,3,2,The Truth,"September 25, 1991",Elaine Pope,David Steinberg,S03E02
+19,3,3,The Pen,"October 2, 1991",Larry David,Tom Cherones,S03E03
+20,3,4,The Dog,"October 9, 1991",Larry David,Tom Cherones,S03E04
+21,3,5,The Library,"October 16, 1991",Larry Charles,Joshua White,S03E05
+22,3,6,The Parking Garage,"October 30, 1991",Larry David,Tom Cherones,S03E06
+23,3,7,The Cafe,"November 6, 1991",Tom Leopold,Tom Cherones,S03E07
+24,3,8,The Tape,"November 13, 1991","Larry David and Bob Shaw, Don McEnery",David&nbsp; Steinberg,S03E08
+25,3,9,The Nose Job,"November 20, 1991",Peter Mehlman,Tom Cherones,S03E09
+26,3,10,The Stranded,"November 27, 1991","Larry David, Jerry Seinfeld and Matt Goldman",Tom Cherones,S03E10
+27,3,11,The Alternate Side,"December 4, 1991",Larry David and Bill Masters,Tom Cherones,S03E11
+28,3,12,The Red Dot,"December 11, 1991",Larry David,Tom Cherones,S03E12
+29,3,13,The Subway,"January 8, 1992",Larry David,Tom Cherones,S03E13
+30,3,14,The Pez Dispenser,"January 15, 1992",Larry David,Tom Cherones,S03E14
+31,3,15,The Suicide,"January 29, 1992",Tom Leopold,Tom Cherones,S03E15
+32,3,16,The Fix-Up,"February 5, 1992","Elaine Pope, Larry Charles",Tom Cherones,S03E16
+33,3,17,The Boyfriend (1),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E17
+34,3,18,The Boyfriend (2),"February 12, 1992",Larry David and Larry Levin,Tom Cherones,S03E18
+35,3,19,The Limo,"February 26, 1992",Larry Charles / Story By Marc Jaffe,Tom Cherones,S03E19
+36,3,20,The Good Samaritan,"March 4, 1992",Peter Mehlman,Jason Alexander,S03E20
+37,3,21,The Letter,"March 25, 1992",Larry David,Tom Cherones,S03E21
+38,3,22,The Parking Space,"April 22, 1992",Larry David and Greg Daniels,Tom Cherones,S03E22
+39,3,23,The Keys,"May 6, 1992",Larry Charles,Tom Cherones,S03E23
+40,4,1,The Trip (1),"August 12, 1992",Larry Charles,Tom Cherones,S04E01
+41,4,2,The Trip (2),"August 19, 1992",Larry Charles,Tom Cherones,S04E02
+42,4,3,The Pitch,"September 16, 1992",Larry Charles,Tom Cherones,S04E03
+43,4,4,The Ticket,"September 16, 1992",Larry David,Tom Cherones,S04E04
+44,4,5,The Wallet (1),"September 23, 1992",Larry David,Tom Cherones,S04E05
+45,4,6,The Watch (2),"September 30, 1992",Larry David,Tom Cherones,S04E06
+46,4,7,The Bubble Boy,"October 7, 1992","Larry David, Larry Charles",Tom Cherones,S04E07
+47,4,8,The Cheever Letters,"October 28, 1992","Larry David, Larry Charles",Tom Cherones,S04E08
+48,4,9,The Opera,"November 4, 1992",Larry Charles,Tom Cherones,S04E09
+49,4,10,The Virgin,"November 11, 1992",Peter Mehlman,Tom Cherones,S04E10
+50,4,11,The Contest,"November 18, 1992",Larry David,Tom Cherones,S04E11
+51,4,12,The Airport,"November 25, 1992",Larry Charles,Tom Cherones,S04E12
+52,4,13,The Pick,"December 16, 1992",Larry Charles,Tom Cherones,S04E13
+53,4,14,The Movie,"January 6, 1993","Steve Skrovan, Bill Masters, Jon Hayman",Tom Cherones,S04E14
+54,4,15,The Visa,"January 27, 1993",Peter Mehlman,Tom Cherones,S04E15
+55,4,16,The Shoes,"February 4, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S04E16
+56,4,17,The Outing,"February 11, 1993",Larry Charles,Tom Cherones,S04E17
+57,4,18,The Old Man,"February 18, 1993",Bruce Kirschbaum,Tom Cherones,S04E18
+58,4,19,The Implant,"February 25, 1993",Peter Mehlman,Tom Cherones,S04E19
+59,4,20,The Junior Mint,"March 18, 1993",Andy Robin,Tom Cherones,S04E20
+60,4,21,The Smelly Car,"April 15, 1993","Larry David, Peter Mehlman",Tom Cherones,S04E21
+61,4,22,The Handicap Spot,"May 13, 1993",Larry David,Tom Cherones,S04E22
+62,4,23,The Pilot (1),"May 20, 1993",Larry David,Tom Cherones,S04E23
+63,4,24,The Pilot (2),"May 20, 1993",Larry David,Tom Cherones,S04E24
+64,5,1,The Mango,"September 16, 1993","Lawrence H. Levy, Buck Dancer (Larry David pseudonym)",Tom Cherones,S05E01
+65,5,2,The Puffy Shirt,"September 23, 1993",Larry David,Tom Cherones,S05E02
+66,5,3,The Glasses,"September 30, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E03
+67,5,4,The Sniffing Accountant,"October 7, 1993","Larry David, Jerry Seinfeld",Tom Cherones,S05E04
+68,5,5,The Bris,"October 14, 1993",Larry Charles,Tom Cherones,S05E05
+69,5,6,The Lip Reader,"October 28, 1993",Carol Leifer,Tom Cherones,S05E06
+70,5,7,The Non-Fat Yogurt,"November 4, 1993",Larry David,Tom Cherones,S05E07
+71,5,8,The Barber,"November 11, 1993",Andy Robin,Tom Cherones,S05E08
+72,5,9,The Masseuse,"November 18, 1993",Peter Mehlman,Tom Cherones,S05E09
+73,5,10,The Cigar Store Indian,"December 9, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E10
+74,5,11,The Conversion,"December 16, 1993",Bruce Kirschbaum,Tom Cherones,S05E11
+75,5,12,The Stall,"January 6, 1994",Larry Charles,Tom Cherones,S05E12
+76,5,13,The Dinner Party,"February 3, 1994",Larry David,Tom Cherones,S05E13
+77,5,14,The Marine Biologist,"February 10, 1994","Ron Hague, Charlie Rubin",Tom Cherones,S05E14
+78,5,15,The Pie,"February 17, 1994","Tom Gammill, Max Pross",Tom Cherones,S05E15
+79,5,16,The Stand-In,"February 24, 1994",Larry David,Tom Cherones,S05E16
+80,5,17,The Wife,"March 17, 1994",Peter Mehlman,Tom Cherones,S05E17
+81,5,18,The Raincoats,April 28 1994,"Tom Gammill, Max Pross and Larry David, Jerry Seinfeld",Tom Cherones,S05E18
+82,5,20,The Fire,"May 5, 1994",Larry Charles,Tom Cherones,S05E20
+83,5,21,The Hamptons,"May 12, 1994","Peter Mehlman, Carol Leifer",Tom Cherones,S05E21
+84,5,22,The Opposite,"May 19, 1994","Andy Cowan and Larry David, Jerry Seinfeld",Tom Cherones,S05E22
+85,6,1,The Chaperone,"September 22, 1994","Larry David, Bill Masters, Bob Shaw",Andy Ackerman,S06E01
+86,6,2,The Big Salad,"September 29, 1994",Larry David,Andy Ackerman,S06E02
+87,6,3,The Pledge Drive,"October 6, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E03
+88,6,4,The Chinese Woman,"October 13, 1994",Peter Mehlman,Andy Ackerman,S06E04
+89,6,5,The Couch,"October 27, 1994",Larry David,Andy Ackerman,S06E05
+90,6,6,The Gymnast,"November 3, 1994","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E06
+91,6,7,The Soup,"November 10, 1994",Fred Stoller,Andy Ackerman,S06E07
+92,6,8,The Mom &amp; Pop Store,"November 17, 1994","Tom Gammill, Max Pross",Andy Ackerman,S06E08
+93,6,9,The Secretary,"December 8, 1994","Carol Leifer, Marjorie Gross",David Owen Trainor,S06E09
+94,6,10,The Race,"December 15, 1994","Tom Gammill, Max Pross and Larry David",Andy Ackerman,S06E10
+95,6,11,The Switch,"January 5, 1995",Bruce Kirschbaum and Sam Kass,Andy Ackerman,S06E11
+96,6,12,The Label Maker,"January 19, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E12
+97,6,13,The Scofflaw,"January 26, 1995",Peter Mehlman,Andy Ackerman,S06E13
+98,6,16,The Beard,"February 9, 1995",Carol Leifer,Andy Ackerman,S06E16
+99,6,17,The Kiss Hello,"February 16, 1995","Larry David, Jerry Seinfeld",Andy Ackerman,S06E17
+100,6,18,The Doorman,"February 23, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E18
+101,6,19,The Jimmy,"March 16, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S06E19
+102,6,20,The Doodle,"April 6, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S06E20
+103,6,21,The Fusilli Jerry,"April 27, 1995",Marjorie Gross,Andy Ackerman,S06E21
+104,6,22,The Diplomat's Club,"May 4, 1995","Tom Gammill, Max Pross",Andy Ackerman,S06E22
+105,6,23,The Face Painter,"May 11, 1995",Larry David,Andy Ackerman,S06E23
+106,6,24,The Understudy,"May 18, 1995","Marjorie Gross, Carol Leifer",Andy Ackerman,S06E24
+107,7,1,The Engagement,"September 21, 1995",Larry David,Andy Ackerman,S07E01
+108,7,2,The Postponement,"September 28, 1995",Larry David,Andy Ackerman,S07E02
+109,7,3,The Maestro,"October 5, 1995",Larry David,Andy Ackerman,S07E03
+110,7,4,The Wink,"October 12, 1995","Tom Gammill, Max Pross",Andy Ackerman,S07E04
+111,7,5,The Hot Tub,"October 19, 1995","Gregg Kavet, Andy Robin",Andy Ackerman,S07E05
+112,7,6,The Soup Nazi,"November 2, 1995",Spike Feresten,Andy Ackerman,S07E06
+113,7,7,The Secret Code,"November 9, 1995","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E07
+114,7,8,The Pool Guy,"November 16, 1995",David Mandel,Andy Ackerman,S07E08
+115,7,9,The Sponge,"December 7, 1995",Peter Mehlman,Andy Ackerman,S07E09
+116,7,10,The Gum,"December 14, 1995","Tom Gammill, Max Pross",Andy Ackerman,S07E10
+117,7,11,The Rye,"January 4, 1996",Carol Leifer,Andy Ackerman,S07E11
+118,7,12,The Caddy,"January 25, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E12
+119,7,13,The Seven,"February 1, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E13
+120,7,14,The Cadillac (1),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E14
+121,7,15,The Cadillac (2),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E15
+122,7,16,The Shower Head,"February 15, 1996","Peter Mehlman, Marjorie Gross",Andy Ackerman,S07E16
+123,7,17,The Doll,"February 22, 1996","Tom Gammill, Max Pross",Andy Ackerman,S07E17
+124,7,18,The Friars Club (a.k.a. The Gypsies),"March 7, 1996",David Mandel,Andy Ackerman,S07E18
+125,7,19,The Wig Master,"April 4, 1996",Spike Feresten,Andy Ackerman,S07E19
+126,7,20,The Calzone,"April 25, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E20
+127,7,21,The Bottle Deposit (1),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E21
+128,7,22,The Bottle Deposit (2),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E22
+129,7,23,The Wait Out,"May 9, 1996",Peter Mehlman,Andy Ackerman,S07E23
+130,7,24,The Invitations,"May 16, 1996",Larry David,Andy Ackerman,S07E24
+131,8,1,The Foundation,"September 19, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E01
+132,8,2,The Soul Mate,"September 26, 1996",Peter Mehlman,Andy Ackerman,S08E02
+133,8,3,The Bizarro Jerry,"October 3, 1996",David Mandel,Andy Ackerman,S08E03
+134,8,4,The Little Kicks,"October 10, 1996",Spike Feresten,Andy Ackerman,S08E04
+135,8,5,The Package,"October 17, 1996",Jennifer Crittenden,Andy Ackerman,S08E05
+136,8,6,The Fatigues,"October 31, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S08E06
+137,8,7,The Checks,"November 7, 1996","Steve O'Donnell and Tom Gammill, Max Pross",Andy Ackerman,S08E07
+138,8,8,The Chicken Roaster,"November 14, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E08
+139,8,9,The Abstinence,"November 21, 1996",Steve Koren,Andy Ackerman,S08E09
+140,8,10,The Andrea Doria,"December 19, 1996",Spike Feresten,Andy Ackerman,S08E10
+141,8,11,The Little Jerry,"January 9, 1997",Jennifer Crittenden,Andy Ackerman,S08E11
+142,8,12,The Money,"January 16, 1997",Peter Mehlman,Andy Ackerman,S08E12
+143,8,13,The Comeback,"January 30, 1997","Gregg Kavet, Andy Robin",David Owen Trainor,S08E13
+144,8,14,The Van Buren Boys,"February 6, 1997",Darin Henry,Andy Ackerman,S08E14
+145,8,15,The Susie,"February 13, 1997",David Mandel,Andy Ackerman,S08E15
+146,8,16,The Pothole,"February 20, 1997",Steve O'Donnell and Dan O'Keefe,Andy Ackerman,S08E16
+147,8,17,The English Patient,"March 13, 1997",Steve Koren,Andy Ackerman,S08E17
+148,8,18,The Nap,"April 10, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S08E18
+149,8,19,The Yada Yada,"April 24, 1997",Peter Mehlman and Jill Franklyn,Andy Ackerman,S08E19
+150,8,20,The Millennium,"May 1, 1997",Jennifer Crittenden,Andy Ackerman,S08E20
+151,8,21,The Muffin Tops,"May 8, 1997",Spike Feresten,Andy Ackerman,S08E21
+152,8,22,The Summer of George,"May 15, 1997","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E22
+153,9,1,The Butter Shave,"September 25, 1997","Alec Berg, Jeff Schaffer, David Mandel",Andy Ackerman,S09E01
+154,9,2,The Voice,"October 2, 1997","Alec Berg, Jeff Schaffer, David Mandel",Andy Ackerman,S09E02
+155,9,3,The Serenity Now,"October 9, 1997",Steve Koren,Andy Ackerman,S09E03
+156,9,4,The Blood,"October 16, 1997",Dan O'Keefe,Andy Ackerman,S09E04
+157,9,5,The Junk Mail,"October 30, 1997",Spike Feresten,Andy Ackerman,S09E05
+158,9,6,The Merv Griffin Show,"November 6, 1997",Bruce Eric Kaplan,Andy Ackerman,S09E06
+159,9,7,The Slicer,"November 13, 1997","Gregg Kavet, Andy Robin",Andy Ackerman,S09E07
+160,9,8,The Betrayal,"November 20, 1997","David Mandel, Peter Mehlman",Andy Ackerman,S09E08
+161,9,9,The Apology,"December 11, 1997",Jennifer Crittenden,Andy Ackerman,S09E09
+162,9,10,The Strike,"December 18, 1997","Dan O'Keefe, Alec Berg, Jeff Schaffer",Andy Ackerman,S09E10
+163,9,11,The Dealership,"January 8, 1998",Steve Koren,Andy Ackerman,S09E11
+164,9,12,The Reverse Peephole (a.k.a. The Man Fur),"January 15, 1998",Spike Feresten,Andy Ackerman,S09E12
+165,9,13,The Cartoon,"January 29, 1998",Bruce Eric Kaplan,Andy Ackerman,S09E13
+166,9,14,The Strongbox,"February 5, 1998",Dan O'Keefe,Andy Ackerman,S09E14
+167,9,15,The Wizard,"February 26, 1998",Steve Lookner,Andy Ackerman,S09E15
+168,9,16,The Burning,"March 19, 1998",Jennifer Crittenden,Andy Ackerman,S09E16
+169,9,17,The Bookstore,"April 9, 1998",Spike Feresten,Andy Ackerman,S09E17
+170,9,18,The Frogger,"April 23, 1998","Gregg Kavet, Andy Robin",Andy Ackerman,S09E18
+171,9,19,The Maid,"April 30, 1998","Alec Berg, David Mandel, Jeff Schaffer",Andy Ackerman,S09E19
+172,9,20,The Puerto Rican Day,"May 7, 1998","Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin and Jeff Schaffer.",Andy Ackerman,S09E20
+173,9,23,The Finale,"May 14, 1998",Larry David,Andy Ackerman,S09E23
